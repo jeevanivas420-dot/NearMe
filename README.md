@@ -28,6 +28,7 @@ Execute the programs and publish them.
 
 ## CODE
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,6 +66,7 @@ Execute the programs and publish them.
     <input type="text" id="text2">
 </body>
 </html>
+
 
 
 ## OUTPUT
